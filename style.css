@@ -1,0 +1,213 @@
+div.logo
+{
+    margin-left: 360px;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: lightgray;
+    color: white;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    
+    
+}
+
+nav ul li {
+    margin-left: 20px;
+    
+}
+
+nav ul li a {
+    
+    color: black;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: normal;
+    display: flex;
+    align-items: center;
+}
+
+.intro h4{
+    text-align: center;
+    color: red;
+}
+
+.intro h1{
+    text-align: center;
+} 
+
+.intro p 
+{
+    text-align: center;
+}
+
+.intro img {
+    margin-left: 400px;
+}
+
+.intro h5{
+    font-size: 15px;
+   margin-left: 400px;
+}
+
+.highlight
+{
+    color: rgb(167, 42, 42);
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.para-1 p{
+    text-align: left;
+    margin-left: 400px;
+
+}
+
+.content h2 {
+    margin-left: 400px;
+}
+
+.content p{
+    text-align: left;
+    margin-left: 400px;
+}
+
+.highlight-1
+{
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.content img
+{
+    margin-left: 400px;
+}
+
+.content ul{
+    list-style: square;
+    margin-left: 400px;
+}
+
+.content h4
+{
+    margin-left: 400px;
+}
+
+
+.double-quote-1
+{
+    color: lightseagreen;
+    margin-left: 1px;
+    font-weight: bold;
+    font-size: 40px;
+    font-style: italic;
+}
+ 
+.double-quote p{
+    margin-left: 450px;
+    font-style: italic;
+    color: rgb(138, 131, 131);
+
+}
+
+.content h3{
+    margin-left: 400px;
+}
+
+.highlight-2
+{
+    margin-left: 410px;
+}
+
+.highlight-3
+{
+    margin-left: 45%;
+}
+
+.para-2 p{
+    margin-left: 650px;
+    color: rgb(155, 151, 151);
+    font-style: italic;
+}
+
+.para-3{
+    font-style: italic;
+}
+
+.brand
+{
+    margin-left: 400px;
+}
+
+.bottom-div
+{
+    margin-left: 20px;
+}
+.like
+{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.like h2
+{
+    margin-left: 150px;
+
+}
+
+
+.back-to-top
+{
+    margin-left: 50%;
+}
+
+.back-to-top a{
+    color: rgb(66, 65, 65);
+    text-decoration: none;
+
+}
+
+
+footer 
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: black;
+    padding: 20px;
+}
+
+.intrepid-logo 
+{   
+    color: white;
+    margin: 0;
+    padding: 0;
+    margin-left: 50px;
+    
+}
+
+
+.intrepid-logo img{
+    margin: 0;
+}
+
+.fa-brand a
+{
+    margin:  10px;
+}
